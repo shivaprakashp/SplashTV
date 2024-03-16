@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.SpaceTV" parent="@style/Theme.Leanback" />
+</resources>
